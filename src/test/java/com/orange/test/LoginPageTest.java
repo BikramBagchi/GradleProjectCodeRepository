@@ -36,5 +36,12 @@ public class LoginPageTest
 		loginpage.senkeys();
 		
 		System.out.println("random");
+		System.out.println("pp");
+	}
+	
+	@Test
+	public void test231()
+	{
+		
 	}
 }
