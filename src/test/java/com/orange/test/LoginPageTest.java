@@ -42,6 +42,6 @@ public class LoginPageTest
 	@Test
 	public void test231()
 	{
-		
+		loginpage = PageFactory.initElements(driver, LoginPage.class);
 	}
 }
